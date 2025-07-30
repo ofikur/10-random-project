@@ -13,7 +13,7 @@
 <p align="center">
   <i>Setiap baris kode adalah langkah maju.</i>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Proyek Selesai-3%20%2F%2010-8A2BE2?style=for-the-badge&logo=github" alt="Progress Badge"/>
+  <img src="https://img.shields.io/badge/Proyek Selesai-4%20%2F%2010-8A2BE2?style=for-the-badge&logo=github" alt="Progress Badge"/>
 </p>
 
 ---

@@ -80,7 +80,27 @@
 </details>
 <hr>
 
-### 4. On Progres... ⏳
+### 4. Ghibli-pedia 🎬
+> Ensiklopedia interaktif untuk menjelajahi dunia magis Studio Ghibli, menampilkan film, karakter, lokasi, dan banyak lagi.
+<details>
+  <summary>✨ Tampilkan Detail & Teknologi</summary>
+  <ul>
+    <li>
+      <strong>Tautan Proyek:</strong>
+      <ul>
+        <li><a href="https://github.com/ofikur/ghibli-pedia">💻 <strong>Repository</strong></a></li>
+        <li>🌐 <strong>Live Demo</strong> (Belum dideploy)</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Teknologi yang Digunakan:</strong><br>
+      <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=flat-square&logo=react&logoColor=white" alt="React"/> <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" alt="Vite"/> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/> <img src="https://img.shields.io/badge/framer-%230055FF.svg?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion"/>
+    </li>
+  </ul>
+</details>
+<hr>
+
+### 5. On Progres... ⏳
 > On Progres...
 <details>
   <summary>✨ Tampilkan Detail & Teknologi</summary>

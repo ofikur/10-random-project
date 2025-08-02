@@ -13,7 +13,7 @@
 <p align="center">
   <i>Setiap baris kode adalah langkah maju.</i>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Proyek Selesai-4%20%2F%2010-8A2BE2?style=for-the-badge&logo=github" alt="Progress Badge"/>
+  <img src="https://img.shields.io/badge/Proyek Selesai-5%20%2F%2010-8A2BE2?style=for-the-badge&logo=github" alt="Progress Badge"/>
 </p>
 
 ---
@@ -99,8 +99,27 @@
   </ul>
 </details>
 <hr>
+	
+### 5. Jendela Waktu .NET
+> On Progres...
+<details>
+  <summary>✨ Tampilkan Detail & Teknologi</summary>
+  <ul>
+    <li>
+      <strong>Tautan Proyek:</strong>
+      <ul>
+        <li>💻 <strong>Repository</strong>...</li>
+        <li>🌐 <strong>Live Demo</strong>...</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Teknologi yang Digunakan:</strong><br>
+      </li>
+  </ul>
+</details>
+<hr>
 
-### 5. On Progres... ⏳
+### 6. On Progres... ⏳
 > On Progres...
 <details>
   <summary>✨ Tampilkan Detail & Teknologi</summary>

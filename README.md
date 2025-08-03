@@ -100,21 +100,22 @@
 </details>
 <hr>
 	
-### 5. Jendela Waktu .NET
-> On Progres...
+### 5. Jendela Waktu .NET 📖
+> Perpustakaan digital elegan untuk menjelajahi puluhan ribu novel klasik dari Project Gutenberg, lengkap dengan fitur pencarian dan filter.
 <details>
   <summary>✨ Tampilkan Detail & Teknologi</summary>
   <ul>
     <li>
       <strong>Tautan Proyek:</strong>
       <ul>
-        <li>💻 <strong>Repository</strong>...</li>
-        <li>🌐 <strong>Live Demo</strong>...</li>
+        <li><a href="https://github.com/ofikur/jendela-waktu-react">💻 <strong>Repository</strong></a> (Pastikan link ini benar!)</li>
+        <li>🌐 <strong>Live Demo</strong> (Belum dideploy)</li>
       </ul>
     </li>
     <li>
       <strong>Teknologi yang Digunakan:</strong><br>
-      </li>
+      <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=flat-square&logo=react&logoColor=white" alt="React"/> <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" alt="Vite"/> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+    </li>
   </ul>
 </details>
 <hr>

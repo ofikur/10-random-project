@@ -108,7 +108,7 @@
     <li>
       <strong>Tautan Proyek:</strong>
       <ul>
-        <li><a href="https://github.com/ofikur/jendela-waktu-react">💻 <strong>Repository</strong></a> (Pastikan link ini benar!)</li>
+        <li><a href="https://github.com/ofikur/jendela-waktu-net">💻 <strong>Repository</strong></a></li>
         <li>🌐 <strong>Live Demo</strong> (Belum dideploy)</li>
       </ul>
     </li>

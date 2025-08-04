@@ -120,8 +120,8 @@
 </details>
 <hr>
 
-### 6. Quran Digital ID 📖
-> Aplikasi web Al-Quran digital yang modern dan responsif, lengkap dengan audio murottal, tafsir, dan kumpulan doa harian.
+### 6. Qur'an Digital ID 📖
+> Aplikasi web Al-Qur'an digital yang modern dan responsif, lengkap dengan audio murottal, tafsir, dan kumpulan doa harian.
 <details>
   <summary>✨ Tampilkan Detail & Teknologi</summary>
   <ul>

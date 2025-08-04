@@ -13,7 +13,7 @@
 <p align="center">
   <i>Setiap baris kode adalah langkah maju.</i>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Proyek Selesai-5%20%2F%2010-8A2BE2?style=for-the-badge&logo=github" alt="Progress Badge"/>
+  <img src="https://img.shields.io/badge/Proyek Selesai-6%20%2F%2010-8A2BE2?style=for-the-badge&logo=github" alt="Progress Badge"/>
 </p>
 
 ---
@@ -99,7 +99,7 @@
   </ul>
 </details>
 <hr>
-	
+
 ### 5. Jendela Waktu .NET 📖
 > Perpustakaan digital elegan untuk menjelajahi puluhan ribu novel klasik dari Project Gutenberg, lengkap dengan fitur pencarian dan filter.
 <details>
@@ -120,7 +120,27 @@
 </details>
 <hr>
 
-### 6. On Progres... ⏳
+### 6. Quran Digital ID 📖
+> Aplikasi web Al-Quran digital yang modern dan responsif, lengkap dengan audio murottal, tafsir, dan kumpulan doa harian.
+<details>
+  <summary>✨ Tampilkan Detail & Teknologi</summary>
+  <ul>
+    <li>
+      <strong>Tautan Proyek:</strong>
+      <ul>
+        <li><a href="https://github.com/ofikur/alquran-digital-id">💻 <strong>Repository</strong></a></li>
+        <li><a href="https://qurandigital-id.vercel.app">🌐 <strong>Live Demo</strong></a></li>
+      </ul>
+    </li>
+    <li>
+      <strong>Teknologi yang Digunakan:</strong><br>
+      <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=flat-square&logo=react&logoColor=white" alt="React"/> <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" alt="Vite"/> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+    </li>
+  </ul>
+</details>
+<hr>
+
+### 7. On Progres... ⏳
 > On Progres...
 <details>
   <summary>✨ Tampilkan Detail & Teknologi</summary>

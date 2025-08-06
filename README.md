@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Ofik's+Holiday+Coding+Sprint;Tantangan+10+Proyek+Kreatif;Mengubah+Ide+Menjadi+Kode" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Ofikur+Holiday+Coding+Sprint;Tantangan+10+Proyek+Kreatif;Mengubah+Ide+Menjadi+Kode" alt="Typing SVG" />
 </p>
 
 <p align="center">

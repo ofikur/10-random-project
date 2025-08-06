@@ -109,7 +109,7 @@
       <strong>Tautan Proyek:</strong>
       <ul>
         <li><a href="https://github.com/ofikur/jendela-waktu-net">💻 <strong>Repository</strong></a></li>
-        <li>🌐 <strong>Live Demo</strong> (Belum dideploy)</li>
+        <li><a href="https://jendelawaktu.vercel.app">🌐 <strong>Live Demo</strong></a></li>
       </ul>
     </li>
     <li>

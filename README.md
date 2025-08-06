@@ -89,7 +89,7 @@
       <strong>Tautan Proyek:</strong>
       <ul>
         <li><a href="https://github.com/ofikur/ghibli-pedia">💻 <strong>Repository</strong></a></li>
-        <li>🌐 <strong>Live Demo</strong> (Belum dideploy)</li>
+        <li><a href="https://ghiblipedia.vercel.app">🌐 <strong>Live Demo</strong></a></li>
       </ul>
     </li>
     <li>

@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Selamat datang di dokumentasi perjalanan <i>coding</i>-ku selama liburan! Repositori ini adalah caraku untuk tetap produktif, bereksperimen dengan teknologi baru, dan membangun portofolio yang solid, satu proyek pada satu waktu.
+  Selamat datang di dokumentasi perjalanan <i>coding</i> saya selama liburan! Repositori ini adalah cara saya untuk tetap produktif, bereksperimen dengan teknologi baru, dan membangun portofolio yang solid, satu proyek pada satu waktu.
 </p>
 
 ---

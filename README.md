@@ -48,7 +48,7 @@
     <li>
       <strong>Tautan Proyek:</strong>
       <ul>
-        <li><a href="https://github.com/ofikur/vanishbg">💻 <strong>Repository</strong></a></li>
+        <li><a href="https://github.com/ofikur/ai-background-remover">💻 <strong>Repository</strong></a></li>
         <li><a href="https://vanishbg.vercel.app">🌐 <strong>Live Demo</strong></a></li>
       </ul>
     </li>

@@ -160,6 +160,25 @@
 </details>
 <hr>
 
+### 8. On Progres... ⏳
+> On Progres...
+<details>
+  <summary>✨ Tampilkan Detail & Teknologi</summary>
+  <ul>
+    <li>
+      <strong>Tautan Proyek:</strong>
+      <ul>
+        <li>💻 <strong>Repository</strong>...</li>
+        <li>🌐 <strong>Live Demo</strong>...</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Teknologi yang Digunakan:</strong><br>
+      </li>
+  </ul>
+</details>
+<hr>
+
 <br>
 
 <p align="center">

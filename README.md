@@ -13,7 +13,7 @@
 <p align="center">
   <i>Setiap baris kode adalah langkah maju.</i>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Proyek Selesai-6%20%2F%2010-8A2BE2?style=for-the-badge&logo=github" alt="Progress Badge"/>
+  <img src="https://img.shields.io/badge/Proyek Selesai-7%20%2F%2010-8A2BE2?style=for-the-badge&logo=github" alt="Progress Badge"/>
 </p>
 
 ---
@@ -140,20 +140,21 @@
 </details>
 <hr>
 
-### 7. On Progres... ⏳
-> On Progres...
+### 7. SoundHub - Penjelajah Soundboard 🔊
+> Aplikasi web modern untuk menjelajahi, memutar, dan mengunduh ribuan suara dari soundboard populer MyInstants, dibangun dengan Vue 3.
 <details>
   <summary>✨ Tampilkan Detail & Teknologi</summary>
   <ul>
     <li>
       <strong>Tautan Proyek:</strong>
       <ul>
-        <li>💻 <strong>Repository</strong>...</li>
-        <li>🌐 <strong>Live Demo</strong>...</li>
+        <li><a href="https://github.com/ofikur/soundboard-hub">💻 <strong>Repository</strong></a></li>
+        <li><a href="https://soundboard-hub.vercel.app">🌐 <strong>Live Demo</strong></a></li>
       </ul>
     </li>
     <li>
       <strong>Teknologi yang Digunakan:</strong><br>
+      <img src="https://img.shields.io/badge/vue.js-%2335495E.svg?style=flat-square&logo=vue.js&logoColor=%234FC08D" alt="Vue.js"/> <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" alt="Vite"/> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
       </li>
   </ul>
 </details>

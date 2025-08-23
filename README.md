@@ -13,7 +13,7 @@
 <p align="center">
   <i>Setiap baris kode adalah langkah maju.</i>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Proyek Selesai-7%20%2F%2010-8A2BE2?style=for-the-badge&logo=github" alt="Progress Badge"/>
+  <img src="https://img.shields.io/badge/Proyek Selesai-8%20%2F%2010-8A2BE2?style=for-the-badge&logo=github" alt="Progress Badge"/>
 </p>
 
 ---
@@ -48,7 +48,7 @@
     <li>
       <strong>Tautan Proyek:</strong>
       <ul>
-        <li><a href="https://github.com/ofikur/ai-background-remover">💻 <strong>Repository</strong></a></li>
+        <li><a href="https://github.com/ofikur/vanishbg">💻 <strong>Repository</strong></a></li>
         <li><a href="https://vanishbg.vercel.app">🌐 <strong>Live Demo</strong></a></li>
       </ul>
     </li>
@@ -160,7 +160,27 @@
 </details>
 <hr>
 
-### 8. On Progres... ⏳
+### 8. FastSaver - Video Downloader ⚡️
+> Aplikasi web modern untuk mengunduh video tanpa watermark dan mengonversi video ke audio, dibangun dengan Next.js dan Tailwind CSS.
+<details>
+  <summary>✨ Tampilkan Detail & Teknologi</summary>
+  <ul>
+    <li>
+      <strong>Tautan Proyek:</strong>
+      <ul>
+        <li><a href="https://github.com/ofikur/video-downloader">💻 <strong>Repository</strong></a></li>
+        <li><a href="https://fastsaver.vercel.app">🌐 <strong>Live Demo</strong></a></li>
+      </ul>
+    </li>
+    <li>
+      <strong>Teknologi yang Digunakan:</strong><br>
+      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" alt="Next JS"/> <img src="https://img.shields.io/badge/typescript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/> <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=flat-square&logo=react&logoColor=white" alt="React"/>
+    </li>
+  </ul>
+</details>
+<hr>
+
+### 9. On Progres... ⏳
 > On Progres...
 <details>
   <summary>✨ Tampilkan Detail & Teknologi</summary>
@@ -182,6 +202,6 @@
 <br>
 
 <p align="center">
-  Perjalanan ini bukan hanya tentang hasil akhir, tetapi adalah sebuah proses yang dilalui. <br/>
+  Perjalanan bukan hanya tentang tujuan akhir, tetapi adalah sebuah proses yang dilalui. <br/>
   ~ Someone, 2025
 </p>

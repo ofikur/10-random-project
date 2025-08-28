@@ -13,7 +13,7 @@
 <p align="center">
   <i>Setiap baris kode adalah langkah maju.</i>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Proyek Selesai-8%20%2F%2010-8A2BE2?style=for-the-badge&logo=github" alt="Progress Badge"/>
+  <img src="https://img.shields.io/badge/Proyek Selesai-9%20%2F%2010-8A2BE2?style=for-the-badge&logo=github" alt="Progress Badge"/>
 </p>
 
 ---
@@ -180,7 +180,27 @@
 </details>
 <hr>
 
-### 9. On Progres... ⏳
+### 9. Kuis Interaktif - HTML & CSS 🧠
+> Aplikasi web kuis interaktif untuk menguji pengetahuan dasar tentang HTML & CSS, dibangun dengan Vanilla JavaScript.
+<details>
+  <summary>✨ Tampilkan Detail & Teknologi</summary>
+  <ul>
+    <li>
+      <strong>Tautan Proyek:</strong>
+      <ul>
+        <li><a href="https://github.com/ofikur/kuis-interaktif">💻 <strong>Repository</strong></a></li>
+        <li><a href="https://ofikur.github.io/kuis-interaktif">🌐 <strong>Live Demo</strong></a></li>
+      </ul>
+    </li>
+    <li>
+      <strong>Teknologi yang Digunakan:</strong><br>
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
+    </li>
+  </ul>
+</details>
+<hr>
+
+### 10. On Progres... ⏳
 > On Progres...
 <details>
   <summary>✨ Tampilkan Detail & Teknologi</summary>

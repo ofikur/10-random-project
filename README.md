@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <b>🗓️ 27 Juli 2025 - 31 Agustus 2025 🗓️</b>
+</p>
+
+<p align="center">
   Selamat datang di dokumentasi perjalanan <i>coding</i> saya selama liburan! Repositori ini adalah cara saya untuk tetap produktif, bereksperimen dengan teknologi baru, dan membangun portofolio yang solid, satu proyek pada satu waktu.
 </p>
 
@@ -13,7 +17,7 @@
 <p align="center">
   <i>Setiap baris kode adalah langkah maju.</i>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Proyek Selesai-9%20%2F%2010-8A2BE2?style=for-the-badge&logo=github" alt="Progress Badge"/>
+  <img src="https://img.shields.io/badge/Proyek Selesai-10%20%2F%2010-8A2BE2?style=for-the-badge&logo=github" alt="Progress Badge"/>
 </p>
 
 ---
@@ -200,21 +204,22 @@
 </details>
 <hr>
 
-### 10. On Progres... ⏳
-> On Progres...
+### 10. NusantaraTech - Company Profile 🏢
+> Website profil perusahaan fiktif yang modern dan responsif, dibangun dengan fundamental web development.
 <details>
   <summary>✨ Tampilkan Detail & Teknologi</summary>
   <ul>
     <li>
       <strong>Tautan Proyek:</strong>
       <ul>
-        <li>💻 <strong>Repository</strong>...</li>
-        <li>🌐 <strong>Live Demo</strong>...</li>
+        <li><a href="https://github.com/ofikur/nusantaratech-website">💻 <strong>Repository</strong></a></li>
+        <li><a href="https://nusantara-tech.vercel.app">🌐 <strong>Live Demo</strong></a></li>
       </ul>
     </li>
     <li>
       <strong>Teknologi yang Digunakan:</strong><br>
-      </li>
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
+    </li>
   </ul>
 </details>
 <hr>

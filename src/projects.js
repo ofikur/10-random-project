@@ -11,7 +11,7 @@ export const projects = [
     id: 2,
     title: "VanishBG - AI Background Remover ✨",
     description: "Sebuah aplikasi web berbasis AI untuk menghapus latar belakang dari gambar secara otomatis, didukung oleh model Rembg dan FastAPI.",
-    repoUrl: "https://github.com/ofikur/vanishbg",
+    repoUrl: "https://github.com/ofikur/ai-background-remover",
     liveUrl: "https://vanishbg.vercel.app",
     technologies: ["Next.js", "Tailwind CSS", "FastAPI", "rembg", "Pillow"]
   },
